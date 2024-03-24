@@ -1,8 +1,9 @@
 {
-  "name": "Liz",
-  "greetingText": "I miss you!",
-  "wishText": "Wishing you another year filled with love, success and everything else you deserve—happy birthday! ;)",
-  "imagePath": "img/liz.jpeg",
+  "greeting": "Hey",
+  "name": "Sammie",
+  "greetingText": "I miss you btw",
+  "wishText": "Wishing you another year filled with love, success and everything else your heart desires. Happy Birthday! <3",
+
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
   "sendButtonLabel": "Send",
